@@ -14,7 +14,7 @@ This project analyzes global layoff trends using a real-world dataset. The goal 
 3. **Manually validated** flagged duplicates to avoid accidental data loss.
 4. Cleaned and structured the data for future analysis and visualization.
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - SQL (MySQL/PostgreSQL compatible)
 - Window Functions (`ROW_NUMBER`)
